@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  text-align: center;
+}
+
+div {
+  margin-top: 50px;
+}
+
+#whatsapp-button {
+  all : unset;
+  background-color: #25D366;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+}
